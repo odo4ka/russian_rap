@@ -1,0 +1,75 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: lightblue;
+
+  width: 80px;
+  margin-top: 3px;
+  overflow: auto;
+  border-style: solid;
+  border-style: groove;
+  border-radius: 10px;
+  float: left;
+  position: relative;
+
+  height: calc(3.16cm * 3);
+}
+
+section {
+  display: block;
+  border-style: solid;
+  border-style: groove;
+  border-radius: 10px;
+  position: relative;
+  margin-left: 86px;
+  margin-top: 0.075cm;
+  color: black;
+  height: 3cm;
+  position: relative;
+}
+
+header {
+  display: block;
+  background-color: blue;
+  border-style: solid;
+  border-style: groove;
+  border-radius: 10px;
+  font-size: 3ch;
+  color: white;
+  text-align: center;
+}
+t1 {
+  color: white;
+  font-size: 3ch;
+}
+
+li a {
+  display: block;
+
+  text-decoration: none;
+}
+
+h1 {
+  color: black;
+  font-size: 15pt;
+}
+
+img {
+  height: 100;
+  width: 120;
+}
+
+iframe {
+  height: 100;
+  width: 120;
+}
+
+box {
+  display: flex;
+  align-items: center;
+}
+
+h1 st {
+  font-size: 10pt;
+}
